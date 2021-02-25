@@ -1,2 +1,1 @@
-# PomoDev
- pomodoro app for devs
+Aplicativo criado na NLW #4.
