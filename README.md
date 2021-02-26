@@ -41,7 +41,7 @@ você adicionar o comando yarn dev para iniciar o projeto em servidor local. </s
 ## Minhas Redes Sociais
 
 - [Instagram](https://www.instagram.com/marcodsvinicius/)
-- [Linkedin] (https://www.linkedin.com/in/marcodsvinicius/)
-- [Behance] (https://www.behance.net/marcodsvinicius)
+- [Linkedin](https://www.linkedin.com/in/marcodsvinicius/)
+- [Behance](https://www.behance.net/marcodsvinicius)
 
 <p align="center">Desenvolvedor Front-End & UX/UI Designer | Marco Vinicius</p>
