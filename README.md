@@ -30,10 +30,6 @@ Para visualizar o link do projeto no figma, basta clicar no link abaixo!
 
 - [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0)
 
----
-
-<p align="center">Desenvolvedor Front-End & UX/UI Designer | Marco Vinicius</p>
-
 ## Como rodar o projeto em localhost?
 
 <strong> Após clonar o repositório pelo Git ou GitHub Desktop, entre no seu
@@ -44,4 +40,8 @@ você adicionar o comando yarn dev para iniciar o projeto em servidor local. </s
 
 ## Minhas Redes Sociais
 
-- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0)
+- [Instagram](https://www.instagram.com/marcodsvinicius/)
+- [Linkedin] (https://www.linkedin.com/in/marcodsvinicius/)
+- [Behance] (https://www.behance.net/marcodsvinicius)
+
+<p align="center">Desenvolvedor Front-End & UX/UI Designer | Marco Vinicius</p>
